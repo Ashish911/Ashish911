@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Dongol</h1>
-<h3 align="center">A passionate Software Engineer from Nepal.</h3>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish911&label=Profile%20views&color=0e75b6&style=flat" alt="ashish911" /> </p>
 
