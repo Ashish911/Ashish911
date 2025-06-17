@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish911" alt="ashish911" /></a> </p>
 
-- 🔭 I’m currently working on [a finance project.]([https://github.com/Ashish911/projectManagement](https://github.com/Ashish911/WhereMyMoni))
-
 - 🌱 I’m currently learning **To improve my knowledge in Microservices and DSA**
 
 - 💬 Ask me about **React, Java, Sql, Spring, AWS, Devops**
